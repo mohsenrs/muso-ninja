@@ -59,7 +59,7 @@ button:disabled {
 
 /* forms */
 form {
-  max-width: 40rem;
+  max-width: 50rem;
   margin: 0 auto;
   padding: 3rem;
   border-radius: .8rem;
